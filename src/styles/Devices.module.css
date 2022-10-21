@@ -1,0 +1,46 @@
+.newButton {
+    width: 179px;
+    height: 179px;
+    
+    background: #FDFDFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    display: flex;
+    flex-direction: column;
+    
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    line-height: 25px;
+    
+    color: #000000;
+}
+
+.lightBulbIcon {
+    width: 108px;
+    height: 108px;
+    margin-top: 10px;
+    background-image: url("../public/icons/Lightbulb Icon.svg");
+    background-repeat: no-repeat;
+}
+
+.acIcon {
+    width: 108px;
+    height: 108px;
+    margin-top: 10px;
+    background-image: url("../public/icons/acIcon.svg");
+    background-repeat: no-repeat;
+    background-size: 95%;
+}
+
+.tvIcon {
+    width: 108px;
+    height: 108px;
+    margin-top: 10px;
+    background-image: url("../public/icons/tvIcon.svg");
+    background-repeat: no-repeat;
+}

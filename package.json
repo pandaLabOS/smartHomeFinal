@@ -14,6 +14,7 @@
     "dotenv": "^16.0.2",
     "mongoose": "^6.6.0",
     "next": "^12.2.5",
+    "node-red-contrib-mongodb4": "^1.7.0",
     "nouislider": "^15.6.1",
     "react": "18.2.0",
     "react-circle-slider": "^1.6.2",

@@ -1,14 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/api/add": "pages/api/add.js",
-  "/api/socket": "pages/api/socket.js",
-  "/api/findOnStartup": "pages/api/findOnStartup.js",
-  "/api/hello": "pages/api/hello.js",
-  "/api/watch": "pages/api/watch.js",
-  "/remotes": "pages/remotes.html",
-  "/slider_test": "pages/slider_test.html",
-  "/": "pages/index.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }
